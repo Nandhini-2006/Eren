@@ -1,0 +1,10 @@
+# Context Memory Optimization
+# 
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Python >= 3.8 is required for dataclasses and type hints.
+#
+# Optional (not required):
+#   numpy         — faster linear algebra for Bayesian optimization
+#   hnswlib       — production-grade HNSW (our implementation is pure Python)
