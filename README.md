@@ -85,6 +85,9 @@ python -m pytest context_memory/tests/ -v
 
 ### Running Example Pipeline
 ```bash
+Expected Outcome
+
+A lightweight, modular Python framework that combines relevance-driven retrieval, redundancy-aware selection, token-budget optimization, and user-controlled memory dependence for efficient long-running AI agents.
 cd backend
 python -m context_memory.main
 ```
